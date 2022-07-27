@@ -5,11 +5,11 @@
 
 
 
-| CLASS | SAMPLE | *RECOMMENDED RESOURCE* |
-| ----------- | ----------- |  ----------- |
-| **PROGRAMMING**|[title](https://www.example.com) | [title](https://www.example.com) |
-| **DATA STRUCTURE**|[title](https://www.example.com) | [title](https://www.example.com) || Paragraph | Text |
-| **METHODS**|[title](https://www.example.com) | [title](https://www.example.com) |
+| :school:  CLASS | :space_invader:  SAMPLE | :sparkles: *RECOMMENDED RESOURCE* | :pencil: *DIAGRAMS+DESIGNS* |
+| ----------- | ----------- |  ----------- | ----------- |
+| **PROGRAMMING**|[SuperArray](programming/6/sa/SuperArray.java) | [title](https://www.example.com) |
+| **DATA STRUCTURE**|[LinkedLists](ds/LinkedLists/LinkedList.java) | [title](https://www.example.com) || Paragraph | Text |
+| **METHODS**|[unplugged: Directions Quiz!](methods/04_unplugged.md) | [title](https://www.example.com) |
 
 > blockquote
 >
@@ -19,6 +19,7 @@ Unordered List
 - Second item
 - Third item
 Code	`code`
+
 Horizontal Rule	---
-Link	[title](https://www.example.com)
-Image	![alt text](image.jpg)
+
+![alt text](le_petit_prince.jpeg)
