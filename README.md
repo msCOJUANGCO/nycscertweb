@@ -12,7 +12,7 @@
 | **METHODS**|[Unplugged: Directions Quiz!](https://github.com/msCOJUANGCO/nycscertweb/blob/main/04_unplugged.md) | [title](https://www.example.com) |
 
 > blockquote
->
+
 
 Unordered List	
 - First item
@@ -20,6 +20,5 @@ Unordered List
 - Third item
 Code	`code`
 
-Horizontal Rule	---
 
 ![alt text](le_petit_prince.jpeg)
